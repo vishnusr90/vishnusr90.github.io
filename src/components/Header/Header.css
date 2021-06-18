@@ -3,5 +3,5 @@ header {
     align-items: center;
     justify-content: center;
     position: relative;
-    background-image: url("/src/images/banner.jpg");
+    /*background-image: url("/src/images/banner.jpg");*/
 }
