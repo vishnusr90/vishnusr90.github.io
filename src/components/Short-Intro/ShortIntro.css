@@ -12,4 +12,5 @@
 #my-pic img {
     width: 370px;
     height: auto; /* to maintain aspect ratio */
+    filter: grayscale(1);
 }
