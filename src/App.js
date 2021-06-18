@@ -1,7 +1,8 @@
 import './App.css';
 import Header from './components/Header/Header';
-import ShortIntro from "./components/Short-Intro/ShortIntro";
 import AboutMe from "./components/AboutMe/AboutMe";
+import Experience from "./components/Experience/Experience";
+import ShortIntro from "./components/Short-Intro/ShortIntro";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <ShortIntro />
       <AboutMe />
+      <Experience />
     </div>
   );
 }

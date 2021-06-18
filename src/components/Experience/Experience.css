@@ -1,0 +1,33 @@
+
+.exp-heading {
+
+    color: #80dfff;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.year {
+    color: #80dfff;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.exp-summary {
+    width: auto;
+    font-size: 20px;
+    color: #ccf2ff;
+}
+
+.summary-width {
+    padding: 20px;
+}
+
+.exp-summary li {
+    list-style: none;
+    line-height: 2;
+}
+
+.exp-summary li::before {
+    content: '\25B8';
+    padding-right: 5px;
+}
