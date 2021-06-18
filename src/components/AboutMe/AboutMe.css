@@ -1,10 +1,8 @@
 
 section {
-    padding: 30px 410px;
     height: 100%;
     color: #ccf2ff;
-    padding-top: 100px;
-    padding-bottom: 500px;
+    padding: 100px 410px 500px 410px;
 }
 
 section > div > p {
@@ -29,6 +27,8 @@ section .heading {
 
 .name-fade {
     color: #80dfff;
+    font-size: 40px;
+    font-weight: 400;
 }
 
 .widthh {

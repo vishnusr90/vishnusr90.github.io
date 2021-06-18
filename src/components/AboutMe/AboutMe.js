@@ -1,8 +1,8 @@
-import styles from './AboutMe.css';
+import './AboutMe.css';
 
 function AboutMe() {
     return (
-        <section className="{styles.section}">
+        <section>
             <div className="heading">Who Am I ?</div>
 
             <div className="scroll name-section">

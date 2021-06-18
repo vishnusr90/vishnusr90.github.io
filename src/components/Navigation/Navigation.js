@@ -5,7 +5,7 @@ function Navigation() {
       <nav className={styles.nav}>
           <ul>
               <li>
-                  <a href="">Home11</a>
+                  <a href="">Home</a>
                   <a href="">About Me</a>
                   <a href="">Experience</a>
                   <a href="">Education</a>
