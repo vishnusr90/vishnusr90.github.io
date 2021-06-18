@@ -2,7 +2,7 @@ import './AboutMe.css';
 
 function AboutMe() {
     return (
-        <section>
+        <section id="about-me-summary">
             <div className="heading">Who Am I ?</div>
 
             <div className="scroll name-section">
