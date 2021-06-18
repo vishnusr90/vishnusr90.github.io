@@ -1,11 +1,12 @@
+import '../../Animation.css';
 
 function ShortIntro() {
     return (
-        <section className="section">
+        <section>
             <div className="scroll name-section">
                 <p>
-                    <div className="name">Hello, I am Vishnu S R</div>
-                    <div className="name name-fade">And I build microservices</div>
+                    <div className="name fade-in-text-300">Hello, I am Vishnu S R</div>
+                    <div className="name-fade fade-in-text-600">And I build microservice applications</div>
                 </p>
             </div>
         </section>
