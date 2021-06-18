@@ -5,8 +5,7 @@ function Experience() {
         <section id="experience-summary">
             <div className="heading">Where have I perviously worked ?</div>
 
-            <div className="scroll">
-
+            <div>
                 <div className="summary-width">
                     <div className="exp-heading">DBS Bank</div>
                     <div className="year">2018 - Present</div>
@@ -22,10 +21,9 @@ function Experience() {
                         </ul>
                     </div>
                 </div>
-
             </div>
 
-            <div className="scroll name-section">
+            <div className="name-section">
                 <div className="summary-width">
                     <div className="exp-heading">Life Fitness</div>
                     <div className="year">2017 - 2018</div>
@@ -41,7 +39,7 @@ function Experience() {
                 </div>
             </div>
 
-            <div className="scroll name-section">
+            <div className="name-section">
                 <div className="summary-width">
                     <div className="exp-heading">Tata Consultancy Services</div>
                     <div className="year">2013 - 2016</div>

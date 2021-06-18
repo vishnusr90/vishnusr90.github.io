@@ -9,7 +9,7 @@
     padding: 10px;
 }
 
-img {
+#my-pic img {
     width: 370px;
     height: auto; /* to maintain aspect ratio */
 }
