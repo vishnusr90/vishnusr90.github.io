@@ -1,0 +1,45 @@
+
+section {
+    padding: 30px 410px;
+    height: 100%;
+    color: #ccf2ff;
+}
+
+section > div > p {
+    padding-left: 20px;
+    width: 800px;
+}
+
+section .heading {
+    font-size: 30px;
+    color: orange;
+}
+
+.name-section p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+
+.name {
+    color: #00bfff;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.name-fade {
+    color: #80dfff;
+}
+
+.widthh {
+    width: 566px;
+    font-size: 20px;
+    text-align: left;
+}
+
+/*.scroll {*/
+/*    opacity: 0;*/
+/*    transition: opacity 2s;*/
+/*}*/
+
+/*.scroll.scrolled {*/
+/*    opacity: 1;*/
+/*}*/
