@@ -1,10 +1,14 @@
-import styles from './ShortIntro.css';
 
 function ShortIntro() {
     return (
-        <div className={styles.test}>
-            HI I am vishnu !!!!
-        </div>
+        <section className="section">
+            <div className="scroll name-section">
+                <p>
+                    <div className="name">Hello, I am Vishnu S R</div>
+                    <div className="name name-fade">And I build microservices</div>
+                </p>
+            </div>
+        </section>
     );
 }
 

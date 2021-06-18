@@ -1,13 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header/Header';
-import AboutMe from './components/AboutMe/AboutMe';
+import ShortIntro from "./components/Short-Intro/ShortIntro";
+import AboutMe from "./components/AboutMe/AboutMe";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <AboutMe></AboutMe>
+      <ShortIntro />
+      <AboutMe />
     </div>
   );
 }

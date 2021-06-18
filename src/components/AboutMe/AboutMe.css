@@ -3,6 +3,8 @@ section {
     padding: 30px 410px;
     height: 100%;
     color: #ccf2ff;
+    padding-top: 100px;
+    padding-bottom: 500px;
 }
 
 section > div > p {
