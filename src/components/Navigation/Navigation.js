@@ -1,8 +1,9 @@
 import styles from './Navigation.css';
+import '../../Animation.css';
 
 function Navigation() {
     return (
-      <nav className={styles.nav}>
+      <nav className="fade-in-text-300">
           <ul>
               <li>
                   <a href="">Home</a>
