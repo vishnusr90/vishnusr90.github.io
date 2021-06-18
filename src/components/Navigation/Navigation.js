@@ -16,7 +16,6 @@ function Navigation() {
       <nav className="fade-in-text-300">
           <ul>
               <li>
-                  <a>Home</a>
                   <a id="about-me" onClick={goToSummarySection}>About Me</a>
                   <a id="experience" onClick={goToSummarySection}>Experience</a>
                   <a id="contact-me" onClick={goToSummarySection}>Contact Me</a>
