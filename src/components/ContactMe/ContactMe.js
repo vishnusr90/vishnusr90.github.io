@@ -20,11 +20,11 @@ function ContactMe() {
                     <img src="github-new.png"alt="Github" />
                 </a>
 
-                <a href="https://www.linkedin.com/in/vishnusr90">
+                <a href="https://www.linkedin.com/in/vishnusr90" target="_blank">
                     <img src="linkedIn-icon.png" alt="LinkedIn" />
                 </a>
 
-                <a href="https://www.facebook.com/vishnusreekumar.r">
+                <a href="https://www.facebook.com/vishnusreekumar.r" target="_blank">
                     <img src="facebook-icon.png" alt="Facebook" />
                 </a>
             </div>
