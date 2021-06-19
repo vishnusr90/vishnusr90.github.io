@@ -12,7 +12,11 @@ function ContactMe() {
             </div>
 
             <div className="social">
-                <a href="https://github.com/vishnusr90/">
+                <a href="mailTo:vishnusr01@gmail.com">
+                    <img src="gmail-icon.png" alt="Gmail" />
+                </a>
+
+                <a href="https://github.com/vishnusr90/" target="_blank">
                     <img src="github-new.png"alt="Github" />
                 </a>
 
