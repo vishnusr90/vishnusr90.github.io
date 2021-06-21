@@ -25,8 +25,6 @@ function ContactMe() {
                     <img src="facebook-icon.png" alt="Facebook" />
                 </a>
             </div>
-
-
         </section>
     );
 }
