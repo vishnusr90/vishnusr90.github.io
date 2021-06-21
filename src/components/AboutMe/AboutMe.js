@@ -7,8 +7,8 @@ function AboutMe() {
 
             <div className="scroll name-section">
                 <p className="widthh">
-                    I am a Singapore based Software Engineer working at DBS Bank.
-                    I work on full stack and currently working on internal applications at DBS
+                    I am Software Engineer who has a penchant for writing clean code. Working for DBS Bank in Singapore, I build microservices.
+                    I also work on front end technologies, mostly using web components.
                 </p>
 
                 <p>Some of the technologies that I currently work with are</p>
