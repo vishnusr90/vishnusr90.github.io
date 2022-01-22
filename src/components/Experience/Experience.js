@@ -3,7 +3,7 @@ import './Experience.css';
 function Experience() {
     return (
         <section id="experience-summary">
-            <div className="heading">Where have I perviously worked ?</div>
+            <div className="heading">My work experience</div>
 
             <div class="timeline">
                 <div class="container left exp-summary">
