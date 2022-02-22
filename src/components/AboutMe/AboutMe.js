@@ -16,14 +16,13 @@ function AboutMe() {
                 <div className="skills">
                     <div>
                         <ul>
-                            <li>Kotlin</li>
                             <li>Java</li>
                             <li>Spring Boot</li>
+                            <li>JavaScript</li>
                         </ul>
                     </div>
                     <div>
                         <ul>
-                            <li>JavaScript</li>
                             <li>MySQL</li>
                             <li>PCF</li>
                         </ul>

@@ -5,9 +5,9 @@ function Experience() {
         <section id="experience-summary">
             <div className="heading">My work experience</div>
 
-            <div class="timeline">
-                <div class="container left exp-summary">
-                    <div class="content">
+            <div className="timeline">
+                <div className="container left exp-summary">
+                    <div className="content">
                         <h2>2018 - Present</h2>
                         <h3>DBS Bank, Singapore</h3>
                         <ul>
@@ -19,8 +19,8 @@ function Experience() {
                         </ul>
                     </div>
                 </div>
-                <div class="container right exp-summary">
-                    <div class="content">
+                <div className="container right exp-summary">
+                    <div className="content">
                         <h2>2017 - 2018</h2>
                         <h3>Life Fitness, Singapore</h3>
                         <ul>
@@ -31,8 +31,8 @@ function Experience() {
                         </ul>
                     </div>
                 </div>
-                <div class="container left exp-summary">
-                        <div class="content">
+                <div className="container left exp-summary">
+                        <div className="content">
                         <h2>2013 - 2016</h2>
                         <h3>Tata Consultancy Services, India</h3>
                         <ul>
